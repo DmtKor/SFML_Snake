@@ -1,0 +1,5 @@
+Just snake. With ugly buttons. There is score, but you won't see it.
+
+Compilation: make all (requires sfml).
+
+Controls: arrows, [SPACE], mouse.
